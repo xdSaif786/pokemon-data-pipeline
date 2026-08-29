@@ -4,7 +4,7 @@ import sqlite3
 
 
 pokemon = ('https://pokeapi.co/api/v2/pokemon')
-param = {"limit" : 15}
+param = {"limit" : 151}
 response = requests.get(pokemon, params=param)
 print(f"Status code: {response.status_code}")
 data = (response.json())
