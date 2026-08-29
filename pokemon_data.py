@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-import _sqlite3
+import sqlite3
 
 
 pokemon = ('https://pokeapi.co/api/v2/pokemon')
@@ -24,9 +24,12 @@ for i in pokemon_list:
 print(detailed_pokemon)
 
 df = pd.DataFrame(detailed_pokemon)
-df['Body_Mass'] = df['weight'] / (df['height'] ** 2)
+df['body_mass'] = df['weight'] / (df['height'] ** 2)
 median_weight = df['weight'].median()
 df['weightclass'] = df['weight'].apply(lambda w: 'heavyweight' if w >= median_weight else 'lightweight')
+
+df.to_sql("pokemon", sqlite3.connect("detailed_pokemon.db"), if_exists = "replace", index = False)
+
 
 print (df)
 
