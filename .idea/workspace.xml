@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b537a8e-c13b-41d5-9310-c83bf0e58276" name="Changes" comment="add a database.py file">
-      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fetch_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon_data.py" afterDir="false" />
+    <list default="true" id="5b537a8e-c13b-41d5-9310-c83bf0e58276" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/pokemon_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,63 +22,69 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xdSaif786/pokemon-data-pipeline.git",
+    "accountId": "744f548a-b118-41e7-9d4b-3541bc3bb745"
+  }
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000001000888" />
-      <entry key="S2" value="1.0031629796736738" />
-      <entry key="S5" value="1.1000088792551845" />
-      <entry key="S10" value="1.316241805040359" />
-      <entry key="S30" value="1.6813042213659797" />
-      <entry key="S60" value="1.8308518115474826" />
-      <entry key="M2" value="2.2100289500818517" />
-      <entry key="M5" value="5.596026929300299" />
-      <entry key="M10" value="11.876898468867926" />
-      <entry key="M15" value="17.653494365770335" />
-      <entry key="M30" value="30.40343553892249" />
-      <entry key="H1" value="45.55446707593648" />
-      <entry key="H2" value="84.07692202556393" />
-      <entry key="H4" value="170.6879196878522" />
-      <entry key="D1" value="393.67909103195706" />
-      <entry key="W1" value="463.05595562095425" />
+      <entry key="MS500" value="1.000000000001248" />
+      <entry key="S2" value="1.0025491611583703" />
+      <entry key="S5" value="1.2875043810504783" />
+      <entry key="S10" value="2.9072335168697387" />
+      <entry key="S30" value="11.817155165332201" />
+      <entry key="S60" value="20.660438519781906" />
+      <entry key="M2" value="28.728381900073966" />
+      <entry key="M5" value="37.59595202842183" />
+      <entry key="M10" value="45.75999758108038" />
+      <entry key="M15" value="52.27736448475179" />
+      <entry key="M30" value="66.26505116574208" />
+      <entry key="H1" value="82.61962209985236" />
+      <entry key="H2" value="121.53732693805327" />
+      <entry key="H4" value="208.2165517599191" />
+      <entry key="D1" value="432.7498495996176" />
+      <entry key="W1" value="502.9001630533406" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.172296308011667E-136" />
-      <entry key="S5" value="5.429597367678751E-55" />
-      <entry key="S10" value="7.368580166951261E-28" />
-      <entry key="S30" value="9.032222017543841E-10" />
-      <entry key="S60" value="3.0053656396106114E-5" />
-      <entry key="M2" value="0.005483487273340851" />
-      <entry key="M5" value="0.13174855934353344" />
-      <entry key="M10" value="0.48846808449498624" />
-      <entry key="M15" value="0.8713910969365114" />
-      <entry key="M30" value="1.7501047718413758" />
-      <entry key="H1" value="2.6523851222600876" />
-      <entry key="H2" value="3.733589132837526" />
-      <entry key="H4" value="5.32315555995163" />
-      <entry key="D1" value="8.797870339795972" />
-      <entry key="W1" value="9.813086236820105" />
+      <entry key="MS100" value="2.1326970152938747E-74" />
+      <entry key="MS500" value="1.8441057934791423E-15" />
+      <entry key="S2" value="2.0722705642094253E-4" />
+      <entry key="S5" value="0.033618519442529436" />
+      <entry key="S10" value="0.1833535367603511" />
+      <entry key="S30" value="0.5681065072968545" />
+      <entry key="S60" value="0.75372948007963" />
+      <entry key="M2" value="0.869212835613911" />
+      <entry key="M5" value="1.0127134829115143" />
+      <entry key="M10" value="1.322248415484933" />
+      <entry key="M15" value="1.6792460623035783" />
+      <entry key="M30" value="2.5568648603104327" />
+      <entry key="H1" value="3.504493755577542" />
+      <entry key="H2" value="4.629057832826024" />
+      <entry key="H4" value="6.248632894229694" />
+      <entry key="D1" value="9.777353402709755" />
+      <entry key="W1" value="10.80981705299928" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9201876506248751" />
-      <entry key="MS500" value="0.9835020741182212" />
-      <entry key="S2" value="0.9989465661280921" />
-      <entry key="S5" value="1.0975045601032594" />
-      <entry key="S10" value="1.314076064200457" />
-      <entry key="S30" value="1.6800674219517735" />
-      <entry key="S60" value="1.8301279437069693" />
-      <entry key="M2" value="2.2142019406187226" />
-      <entry key="M5" value="5.722949769444902" />
-      <entry key="M10" value="12.358754314417803" />
-      <entry key="M15" value="18.517724518625123" />
-      <entry key="M30" value="32.14664564722722" />
-      <entry key="H1" value="48.20126335139225" />
-      <entry key="H2" value="87.80487850990728" />
-      <entry key="H4" value="176.00510150657058" />
-      <entry key="D1" value="402.4746337969732" />
-      <entry key="W1" value="472.86865050521084" />
+      <entry key="MS100" value="0.9726549474122855" />
+      <entry key="MS500" value="0.9944701686744558" />
+      <entry key="S2" value="1.0012862891775192" />
+      <entry key="S5" value="1.3143346788799826" />
+      <entry key="S10" value="3.072413678547628" />
+      <entry key="S30" value="12.365718632088113" />
+      <entry key="S60" value="21.400892188109868" />
+      <entry key="M2" value="29.589600225364155" />
+      <entry key="M5" value="38.60277585186805" />
+      <entry key="M10" value="47.075745251609725" />
+      <entry key="M15" value="53.94968824931629" />
+      <entry key="M30" value="68.81514575163627" />
+      <entry key="H1" value="86.11852711971744" />
+      <entry key="H2" value="126.16075505873172" />
+      <entry key="H4" value="214.4592175125554" />
+      <entry key="D1" value="442.5248681709661" />
+      <entry key="W1" value="513.7095870780227" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -197,7 +202,31 @@
       <option name="project" value="LOCAL" />
       <updated>1788018289677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added working sql table loading the weightclass, average base experience needed and max bodymass">
+      <option name="closed" value="true" />
+      <created>1788041529648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788041529648</updated>
+    </task>
+    <task id="LOCAL-00004" summary="import the dataframe from pokemon_data.py to database.py">
+      <option name="closed" value="true" />
+      <created>1788041574988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788041574988</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1788041589127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1788041589127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +235,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pokemon data pipeline from an IPA" />
     <MESSAGE value="add a database.py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a database.py file" />
+    <MESSAGE value="added working sql table loading the weightclass, average base experience needed and max bodymass" />
+    <MESSAGE value="import the dataframe from pokemon_data.py to database.py" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
