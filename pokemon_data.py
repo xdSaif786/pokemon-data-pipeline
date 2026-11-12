@@ -24,7 +24,9 @@ for i in pokemon_list:
 print(detailed_pokemon)
 
 df = pd.DataFrame(detailed_pokemon)
-df['body_mass'] = df['weight'] / (df['height'] ** 2)
+df['weight_kg'] = df['weight'] / 10
+df['height_m'] = df['height'] / 10
+df['BMI'] = df['weight_kg'] / (df['height_m'] ** 2)
 median_weight = df['weight'].median()
 df['weightclass'] = df['weight'].apply(lambda w: 'heavyweight' if w >= median_weight else 'lightweight')
 
